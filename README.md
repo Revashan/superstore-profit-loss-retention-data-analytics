@@ -51,17 +51,7 @@ Power BI for business dashboards
 Jupyter Notebook for analysis  
 GitHub for version control
 
----
-
-## Key Business Questions
-
-1. Which products generate the highest profit?
-2. Which products consistently generate losses?
-3. Which categories drive the most revenue?
-4. Which customers repeatedly purchase products?
-5. Which products have strong retention?
-
----
+--
 
 ## Key Insights
 
@@ -69,16 +59,6 @@ GitHub for version control
 • Tables and Bookcases produce consistent losses  
 • West region drives highest revenue  
 • High discount levels correlate strongly with negative profit  
-
----
-
-## Dashboard Preview
-
-![Dashboard](images/dashboard_preview.png)
-
----
-
----
 
 ## Business Impact
 
@@ -89,5 +69,5 @@ This analysis helps retail organizations:
 • Optimize inventory planning  
 • Improve customer retention  
 
----
-## Repository Structure
+## Author
+   Revathy
